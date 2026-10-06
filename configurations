@@ -1,1 +1,117 @@
+2. Switch Configuration
 
+Switches were configured to provide connectivity between network devices.
+
+Configuration included:
+
+Basic switch configuration
+Interface configuration
+IP configuration where required
+Interface verification
+Connectivity testing
+
+3. IP Addressing
+
+IPv4 addresses were assigned to network interfaces and end devices according to the network topology.
+
+The addressing scheme was planned to ensure that devices within the required network segments could communicate correctly.
+
+🧪 Connectivity Testing
+
+After configuring the network, connectivity was tested using the ping command.
+
+Example:
+
+ping <destination-ip>
+
+Successful ping responses were used to verify communication between network devices.
+
+🔍 Network Verification
+
+The following Cisco IOS commands were used for verification and troubleshooting:
+
+show ip interface brief
+show running-config
+show ip route
+ping <destination-ip>
+traceroute <destination-ip>
+
+These commands helped verify:
+
+Interface status
+IP address configuration
+Routing information
+Device-to-device connectivity
+Network communication paths
+🛠️ Troubleshooting Performed
+
+During the project, common networking issues were analyzed using a structured troubleshooting approach.
+
+Troubleshooting Process
+Check physical/logical connections
+Verify IP addresses
+Verify subnet masks
+Check default gateway
+Check interface status
+Verify routing configuration
+Test connectivity using ping
+Use Cisco IOS verification commands
+Identify and correct configuration errors
+Retest connectivity
+📸 Project Screenshots
+
+Network Topology
+
+Router Configuration
+
+Switch Configuration
+
+IP Configuration
+
+Connectivity Testing
+
+📚 Key Concepts Demonstrated
+IPv4 addressing
+Subnetting fundamentals
+Router configuration
+Switch configuration
+Routing fundamentals
+Network connectivity
+Cisco IOS CLI
+Ping and connectivity testing
+Network troubleshooting
+Basic enterprise network design
+💡 Skills Demonstrated
+
+This project demonstrates practical understanding of:
+
+Network device configuration
+IP addressing
+Basic routing and switching
+Cisco IOS commands
+Connectivity troubleshooting
+Network documentation
+Systematic troubleshooting methodology
+🚀 Future Improvements
+
+Possible improvements to the project include:
+
+VLAN implementation
+Inter-VLAN routing
+DHCP configuration
+NAT configuration
+Access Control Lists (ACLs)
+Dynamic routing protocols
+Wireless networking
+Network security configuration
+👨‍💻 Project Purpose
+
+This project was created as a hands-on networking project to strengthen practical knowledge of computer networks and Cisco networking concepts.
+
+It is intended to demonstrate networking and troubleshooting skills relevant to entry-level:
+
+IT Support
+Technical Support
+Help Desk
+Network Support
+Network Engineer
